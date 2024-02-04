@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning FrontEnd
 - Studying JS
+ Passionate about Design and currently in the process of learning to create visually pleasing, innovative, responsive, and intuitive websites, with a primary focus on CSS, while also adhering to UX principles. I have a solid foundation of knowledge gained throughout my college journey and a strong desire to apply this knowledge and learn more hands-on.
+
   
 <div align="center">
   <a href="https://github.com/luluhwenceslau">
