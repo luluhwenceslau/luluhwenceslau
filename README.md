@@ -1,24 +1,28 @@
-### Hi there 🌸
+# Hi! I'm Luana 👋
 
+I'm a **Bachelor of Computer Science** and a software developer with experience in **C#/.NET** and **Flutter**.
 
-- 💬 Trainee Full Stack. Working with Flutter and C#.<br>
-Love Front and Design.
+I currently work on software development projects, with experience in legacy system modernization, tablet applications, and custom dashboards.
 
-  
-<!-- <div align="center">
-  <a href="https://github.com/luluhwenceslau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluhwenceslau&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
+## 💻 Technologies
 
+* C# / .NET
+* Flutter / Dart
+* SQL
+* Git
+* Unity / C#
 
- ### My main technologies
- <div style="display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
-</div>
+## 🎮 Game Development
+
+I'm currently exploring **2D game development with Unity and C#**, creating my own games and experimenting with different mechanics and ideas.
+
+My goal is to turn these projects into complete games while continuing to grow as a game developer.
+
+## 📌 About My Projects
+
+Here you'll find personal projects, experiments, studies, and game development projects.
+
+I also keep a collection of projects from my studies and courses in my learning repositories.
 
 ##
 <div style="display: inline_block"><br>
